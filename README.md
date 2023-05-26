@@ -9,8 +9,10 @@
 
 
 #### Process
-Step 1: Melt 1 cube butter
-Step 2: After 30sec Add  Chilli flakes , BBQ sause , Hot sause,  pepper, lime, honey and keep aside afte 30sec
-Step 3: Bake your wings
-Step 4: Pour the sause mix into Baked wings and toss them up
+* __Step 1:__ Melt 1 cube butter
+* __Step 2:__ After 30sec Add  Chilli flakes , BBQ sause , Hot sause,  pepper, lime, honey and keep aside afte 30sec
+* __Step 3:__ Bake your wings
+* __Step 4:__ Pour the sause mix into Baked wings and toss them up
+
+
 
